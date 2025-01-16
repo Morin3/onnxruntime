@@ -37,7 +37,7 @@
     "ONNX Runtime"
   ],
   "devDependencies": {
-    "@types/minimist": "^1.2.2",
+    "@types/minimist": "^1.2.5",
     "cmake-js": "^7.2.1",
     "jsonc": "^2.0.0",
     "minimist": "^1.2.8",
