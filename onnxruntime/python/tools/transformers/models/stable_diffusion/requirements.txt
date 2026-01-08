@@ -16,3 +16,6 @@ safetensors
 invisible_watermark
 # newer version of opencv-python migth encounter module 'cv2.dnn' has no attribute 'DictValue' error
 opencv-python==4.8.0.74
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
