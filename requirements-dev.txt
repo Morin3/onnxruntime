@@ -1,4 +1,4 @@
-black>=22.3
+black>=26.10.1
 cerberus
 flatbuffers
 isort
